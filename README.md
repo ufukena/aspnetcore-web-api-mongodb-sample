@@ -1,1 +1,1 @@
-# aspnetcore-web-api-mongodb-sample
+web-api-mongodb-sample
